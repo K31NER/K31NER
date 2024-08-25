@@ -1,28 +1,11 @@
-## Hi there 👋
-
-<!--
-**K31NER/K31NER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Keiner </h1></summary>
+    <summary><h1 style="display: inline-block">Hola 👋, Soy Keiner </h1></summary>
+    <p>Bienvenido a mi Github</p>
   </ul>
 </div>
 
@@ -30,7 +13,7 @@ Here are some ideas to get you started:
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Sobre mi</h2></summary>
   </ul>
 </div>
 
@@ -38,51 +21,44 @@ Here are some ideas to get you started:
 <!--Intro start-->
 - 🔭 Estudiante de ingenieria de sistemas
 - 💻 Programador en python
-- 🏠 Mi Discord –  [keiner.24](https://discordapp.com/users/957722095381540874) my username!
+- 📈 Me encanta el analisis y manejo de datos
+- 🏠 Mi Discord –  [keiner.24](https://discordapp.com/users/957722095381540874) !
 <!--Intro end-->
 
 
-
+<br>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
 <tr border="none">
 <td width="50%" align="center">
 </td>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Actividad</b></i></p>
 
 <td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=K31NER&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=K31NER&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" width="380" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=K31NER&sho_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
   
   </td>
 </tr>
-</table>
+
 <!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=K31NER&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
 
 </p>        
 <!--- stats (end) -->
-
+<br>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologias con las que trabajo👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,mysql,py,vscode,django,windows&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,discord,windows,vscode,html,mysql,py,django&perline=14" />
   </a>
 </p>
 
@@ -91,26 +67,22 @@ Here are some ideas to get you started:
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Contactame🤝</h2></summary>
   </ul>
 </div>
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/keiner_zr?igsh=YmI1YzZubWE5bHIx" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/keiner-zu%C3%B1iga-romero-1b00a92b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&perline=14" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/keiner_zr?igsh=YmI1YzZubWE5bHIx" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&perline=14" alt="instagram" height="50" width="50" /></a>
+<a href="https://discordapp.com/keiner.24/957722095381540874" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord&perline=14" alt="discord" height="50" width="50" /></a>
+<a href="mailto:zunigaromerokeiner@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail&perline=14" alt="gmail" height="50" width="50" /></a>
   
 </p>
 
 
 <!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
+
 
 
 <!--horizontal divider(gradiant)-->
