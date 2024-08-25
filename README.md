@@ -1,4 +1,7 @@
 <!--horizontal divider(gradiant)-->
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
@@ -52,7 +55,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias con las que trabajo👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologias con las que trabajo👨🏾‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -75,7 +78,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/keiner-zu%C3%B1iga-romero-1b00a92b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&perline=14" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.instagram.com/keiner_zr?igsh=YmI1YzZubWE5bHIx" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&perline=14" alt="instagram" height="50" width="50" /></a>
-<a href="https://discordapp.com/keiner.24/957722095381540874" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord&perline=14" alt="discord" height="50" width="50" /></a>
+<a href="discordapp.com/users/keiner.24" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord&perline=14" alt="discord" height="50" width="50" /></a>
 <a href="mailto:zunigaromerokeiner@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail&perline=14" alt="gmail" height="50" width="50" /></a>
   
 </p>
