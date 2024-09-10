@@ -39,9 +39,10 @@
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Actividad</b></i></p>
 
 <td width="50%" align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=K31NER&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" width="380" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=K31NER&sho_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+    <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K31NER&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" width="380" alt="ovi" />
+    <img src="https://github-readme-stats.vercel.app/api?username=K31NER&sho_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" />
+    </div>
   
   </td>
 </tr>
