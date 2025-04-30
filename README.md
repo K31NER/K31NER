@@ -53,6 +53,10 @@
 <!--- stats (end) -->
 <br>
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=K31NER&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
