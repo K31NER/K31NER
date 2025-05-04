@@ -1,98 +1,79 @@
-<!--horizontal divider(gradiant)-->
+<!-- Portada -->
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, Soy Keiner </h1></summary>
-    <p>Bienvenido a mi Github</p>
-  </ul>
+<!-- Titulo -->
+<div align="center">
+  <h1>Hola 👋, Soy Keiner</h1>
+  <p>Bienvenido a mi Github</p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Sobre mi</h2></summary>
-  </ul>
+<!-- Sobre mi -->
+<div align="center">
+  <h2>🔍 Sobre mí</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; max-width: 800px;">
+    <div>🔭 Estudiante de ingenieria de sistemas</div>
+    <div>💻 Programador en Python</div>
+    <div>📈 Apasionado por el análisis de datos</div>
+    <div>🎮 Mi Discord: keiner.24</div>
+  </div>
 </div>
 
-
-<!--Intro start-->
-- 🔭 Estudiante de ingenieria de sistemas
-- 💻 Programador en python
-- 📈 Me encanta el analisis y manejo de datos
-- 🏠 Mi Discord –  [keiner.24](https://discordapp.com/users/957722095381540874) !
-<!--Intro end-->
-
-
-<br>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<tr border="none">
-<td width="50%" align="center">
-</td>
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Actividad</b></i></p>
-
-<td width="50%" align="center">
-    <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K31NER&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" width="380" alt="ovi" />
-    <img src="https://github-readme-stats.vercel.app/api?username=K31NER&sho_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" />
+<!-- Estadísticas -->
+<div align="center" style="margin: 2rem 0;">
+  <h2>📊 Mis Estadísticas</h2>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; margin-top: 1rem;">
+    <div style="background: #1e1e1e; border-radius: 10px; padding: 1rem;">
+      <img src="https://github-readme-stats.vercel.app/api?username=K31NER&show_icons=true&theme=chartreuse-dark&include_all_commits=true&border_color=2ecc71" width="400"/>
     </div>
-  
-  </td>
-</tr>
+    <div style="background: #1e1e1e; border-radius: 10px; padding: 1rem;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K31NER&theme=chartreuse-dark&layout=compact&border_color=2ecc71" width="400"/>
+    </div>
+  </div>
 
-<!--- stats (end) -->
-
-</p>        
-<!--- stats (end) -->
-<br>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=K31NER&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias con las que trabajo👨🏾‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,windows,vscode,mysql,mongo,py,django,fastapi&perline=14" />
-  </a>
-</p>
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Contactame🤝</h2></summary>
-  </ul>
+  <div style="margin-top: 1.5rem;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=K31NER&theme=dark&hide_border=false" />
+  </div>
 </div>
 
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/keiner-zu%C3%B1iga-romero-1b00a92b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&perline=14" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/keiner_zr?igsh=YmI1YzZubWE5bHIx" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&perline=14" alt="instagram" height="50" width="50" /></a>
-<a href="mailto:zunigaromerokeiner@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail&perline=14" alt="gmail" height="50" width="50" /></a>
-  
-</p>
+<!-- Trofeos -->
+<div align="center" style="margin: 2rem 0;">
+  <h2>🏆 GitHub Trophies</h2>
+  <div style="background: #1e1e1e; border-radius: 10px; padding: 1rem; display: inline-block;">
+    <img src="https://github-profile-trophy.vercel.app/?username=K31NER&theme=radical&margin-w=4" />
+  </div>
+</div>
+
+<!-- Tecnologías -->
+<div align="center" style="margin: 2rem 0;">
+  <h2>👨🏾‍💻 Tecnologías con las que trabajo</h2>
+  <div style="margin-top: 1rem;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,windows,vscode,mysql,mongo,py,django,fastapi&perline=14" />
+    </a>
+  </div>
+</div>
+
+<!-- Contacto -->
+<div align="center" style="margin: 2rem 0;">
+  <h2>🤝 Contactame</h2>
+  <div style="display: flex; justify-content: center; gap: 2rem; margin-top: 1rem;">
+    <a href="https://linkedin.com/in/keiner-zuñiga-romero">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
+    </a>
+    <a href="https://instagram.com/keiner_zr">
+      <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" />
+    </a>
+    <a href="mailto:zunigaromerokeiner@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" />
+    </a>
+  </div>
+</div>
 
 
-<!--profile visit count-->
 
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
+<!-- Divisor final -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
