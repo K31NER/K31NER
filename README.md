@@ -61,7 +61,7 @@
 <div align="center" style="margin: 2rem 0;">
   <h2>🤝 Contactame</h2>
   <div style="display: flex; justify-content: center; gap: 2rem; margin-top: 1rem;">
-    <a href="https://linkedin.com/in/keiner-zuñiga-romero">
+    <a href="https://www.linkedin.com/in/keiner-zuñiga-romero-1b00a92b4/">
       <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
     </a>
     <a href="https://instagram.com/keiner_zr">
