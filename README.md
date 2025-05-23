@@ -1,4 +1,4 @@
-# Hi there! 👋🏾 I'm Keiner Zuñiga
+# Hi there! 👋🏾 I'm Keiner 
 
 <div align="center">
   
