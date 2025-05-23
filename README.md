@@ -60,7 +60,7 @@ class Keiner:
   
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=K31NER&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
 
@@ -83,11 +83,9 @@ class Keiner:
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=K31NER&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&margin-h=2&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=K31NER&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&margin-h=2&column=4" width="100%" />
 
 </div>
-
----
 
 ---
 
@@ -112,14 +110,9 @@ class Keiner:
 
 </div>
 
----
 
 <div align="center">
   
-### 💭 Quote of the Day
-  
-*"The best way to predict the future is to create it."* - Peter Drucker
-
 <img src="https://komarev.com/ghpvc/?username=K31NER&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 
 </div>
