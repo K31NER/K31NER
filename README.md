@@ -68,7 +68,9 @@ class Keiner:
 ![Render](https://img.shields.io/badge/Render-0F0F23?style=for-the-badge&logo=render&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 
-</div>---
+</div>
+
+---
 
 ## 📊 GitHub Analytics
 
