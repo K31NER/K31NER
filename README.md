@@ -68,6 +68,10 @@ class Keiner:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### Design & Planning
+![tldraw](https://img.shields.io/badge/tldraw-000000?style=for-the-badge&logo=tldraw&logoColor=white)
+![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=for-the-badge&logo=excalidraw&logoColor=white)
+
 ### DevOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-0F0F23?style=for-the-badge&logo=render&logoColor=white)
