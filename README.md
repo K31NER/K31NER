@@ -74,6 +74,7 @@ class Keiner:
 
 ### DevOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-0F0F23?style=for-the-badge&logo=render&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 
