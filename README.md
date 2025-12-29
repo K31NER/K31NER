@@ -1,12 +1,10 @@
-# Hi there! 👋🏾 I'm Keiner 
+# Hi there! 👋🏾 I'm Keiner
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&height=70&lines=Software+Developer+%F0%9F%92%BB;Systems+Engineering+Student+%F0%9F%8E%93;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Data+Science+Passionate+%F0%9F%93%88;Backend+Developer+%F0%9F%8C%90)](https://git.io/typing-svg)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&height=70&lines=Software+Developer+%F0%9F%92%BB;Systems+Engineering+Student+%F0%9F%8E%93;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Backend+Developer+%F0%9F%8C%90)
 
 </div>
-
----
 
 ## 🚀 About Me
 
@@ -17,139 +15,110 @@ class Keiner:
         self.role = "Software Developer"
         self.education = "Systems Engineering Student"
         self.location = "Colombia 🇨🇴"
-        self.interests = ["AI & Machine Learning", "Data Science", "Backend Development"]
-        self.currently_learning = ["Advanced Python","Data Science", "Machine learning"]
+        self.interests = ["AI & Machine Learning", "Backend Development", "Data Science"]
+        self.currently_learning = ["Go", "Advanced Python", "Machine Learning"]
     
     def get_daily_routine(self):
         return {
-            "code": "Python, Django, FastAPI",
-            "explore": "Data Analysis & Visualization",
-            "build": "Automation Solutions",
+            "code": "Python, Go, Django, FastAPI",
+            "explore": "Data Analysis & AI Solutions",
+            "build": "Scalable Backend Systems",
             "dream": "AI-powered applications"
         }
 ```
-
----
-## 🛠️ Tech Stack
-<div align="center">
-  
-### Backend Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### AI Agents & LLMs
-![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
-
-### Data Processing & Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### Machine Learning
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Testing & Automation
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-### Development Environment & Tools
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Databases & Storage
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Design & Planning
-![tldraw](https://img.shields.io/badge/tldraw-000000?style=for-the-badge&logo=tldraw&logoColor=white)
-![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=for-the-badge&logo=excalidraw&logoColor=white)
-
-### DevOps & Deployment
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Render](https://img.shields.io/badge/Render-0F0F23?style=for-the-badge&logo=render&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
+## 💻 Tech Stack
 
 <div align="center">
+
+<table align="center" width="100%" style="border: none; border-collapse: collapse;">
   
-<table>
-<tr>
-<td width="55%">
+  <!-- 1. LENGUAJES Y FRAMEWORKS -->
+  <tr>
+    <td align="center" style="border: none; padding-bottom: 20px;">
+      <b>Languages & Frameworks</b><br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,go,fastapi,django&theme=dark" alt="Languages" />
+      </a>
+    </td>
+  </tr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=K31NER&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
+  <!-- 2. DATABASES -->
+  <tr>
+    <td align="center" style="border: none; padding-bottom: 20px;">
+      <b>Databases</b><br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" alt="Databases" />
+      </a>
+    </td>
+  </tr>
 
-</td>
-<td width="50%">
+  <!-- 3. AI & MACHINE LEARNING -->
+  <!-- Usamos &nbsp; (Espacios duros) para garantizar separación sin usar CSS que GitHub borra -->
+  <tr>
+    <td align="center" style="border: none; padding-bottom: 20px;">
+      <b>AI & Machine Learning</b><br/><br/>
+      <a href="#"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="48" height="48" alt="Gemini" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://avatars.githubusercontent.com/u/182288589?s=200&v=4" width="48" height="48" alt="MCP" style="border-radius: 12px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://avatars.githubusercontent.com/u/104874993?s=48&v=4" width="48" height="48" alt="Agno" style="border-radius: 12px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" alt="Airflow" /></a>
+    </td>
+  </tr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=K31NER&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" width="100%" />
+  <!-- 4. DEVOPS -->
+  <tr>
+    <td align="center" style="border: none; padding-bottom: 20px;">
+      <b>DevOps</b><br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,gcp,git&theme=dark" alt="DevOps" />
+      </a>
+    </td>
+  </tr>
 
-</td>
-</tr>
+  <!-- 5. AUTOMATION & DEV TOOLS -->
+  <tr>
+    <td align="center" style="border: none; padding-bottom: 20px;">
+      <b>Automation & Dev Tools</b><br/><br/>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://cdn.simpleicons.org/n8n/FF4081" width="48" height="48" alt="n8n" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://simpleicons.org/icons/tldraw.svg" width="48" height="48" alt="tldraw" /></a>
+    </td>
+  </tr>
+
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=K31NER&theme=tokyonight&hide_border=true" width="60%" />
-
 </div>
 
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=K31NER&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&margin-h=2&column=4" width="100%" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Keiner's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=K31NER&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🤝 Let's Connect!
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keiner-zuñiga-romero-1b00a92b4/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/keiner_zr)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zunigaromerokeiner@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/keiner.24)
+<img src="https://github-readme-stats.vercel.app/api?username=K31NER&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=K31NER&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=K31NER&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" width="49%" />
 
 </div>
 
+## 🏆 GitHub Trophies
 
 <div align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=K31NER&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=K31NER&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tu-id)
+
+![Profile Views](https://komarev.com/ghpvc/?username=K31NER&label=Profile%20Views&color=00D4AA&style=flat-square)
 
 </div>
 
 ---
 
 <div align="center">
-  
+
 **⭐ From [K31NER](https://github.com/K31NER)**
 
 </div>
