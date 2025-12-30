@@ -53,11 +53,10 @@ class Keiner:
   </tr>
 
   <!-- 3. AI & MACHINE LEARNING -->
-  <!-- Usamos &nbsp; (Espacios duros) para garantizar separación sin usar CSS que GitHub borra -->
   <tr>
     <td align="center" style="border: none; padding-bottom: 20px;">
       <b>AI & Machine Learning</b><br/><br/>
-      <a href="#"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="48" height="48" alt="Gemini" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://avatars.githubusercontent.com/u/182288589?s=200&v=4" width="48" height="48" alt="MCP" style="border-radius: 12px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://avatars.githubusercontent.com/u/104874993?s=48&v=4" width="48" height="48" alt="Agno" style="border-radius: 12px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" alt="Airflow" /></a>
+      <a href="#"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="48" height="48" alt="Gemini" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://5fburm4gw2.ucarecd.net/049e8935-f4c6-40f2-947e-e38bedb4fd9a/mcplogo.svg" width="54" height="54" alt="MCP" style="border-radius: 12px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://5fburm4gw2.ucarecd.net/85406d88-bcb3-4caf-9f21-cca1a134fc49/agnologo.svg" width="48" height="48" alt="Agno" style="border-radius: 12px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://5fburm4gw2.ucarecd.net/7dcad70d-3b76-4fd1-baf8-94c765fbf0ff/" width="54" height="54" alt="Scikit" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://5fburm4gw2.ucarecd.net/1718b3f3-d918-463a-a51b-814799db1f77/aiflowIcon.svg" width="54" height="54" alt="Airflow" /></a>
     </td>
   </tr>
 
@@ -106,10 +105,10 @@ class Keiner:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tu-perfil)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tu-id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keiner-zuniga-romero)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/keiner_zr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zunigaromerokeiner@gmail.com)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=K31NER&label=Profile%20Views&color=00D4AA&style=flat-square)
 
