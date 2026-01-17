@@ -85,19 +85,9 @@ class Keiner:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=K31NER&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats-rickstaa.vercel.app/api?username=K31NER&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff" height="150"/>
+<img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=K31NER&layout=compact&hide=html,css&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9" height="150"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=K31NER&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=K31NER&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" width="49%" />
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=K31NER&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
 
 </div>
 
