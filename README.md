@@ -32,7 +32,6 @@ class Keiner:
 
 <table align="center" width="100%" style="border: none; border-collapse: collapse;">
   
-  <!-- 1. LENGUAJES Y FRAMEWORKS -->
   <tr>
     <td align="center" style="border: none; padding-bottom: 20px;">
       <b>Languages & Frameworks</b><br/><br/>
@@ -42,7 +41,6 @@ class Keiner:
     </td>
   </tr>
 
-  <!-- 2. DATABASES -->
   <tr>
     <td align="center" style="border: none; padding-bottom: 20px;">
       <b>Databases</b><br/><br/>
@@ -52,15 +50,31 @@ class Keiner:
     </td>
   </tr>
 
-  <!-- 3. AI & MACHINE LEARNING -->
   <tr>
     <td align="center" style="border: none; padding-bottom: 20px;">
       <b>AI & Machine Learning</b><br/><br/>
-      <a href="#"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="48" height="48" alt="Gemini" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://5fburm4gw2.ucarecd.net/049e8935-f4c6-40f2-947e-e38bedb4fd9a/mcplogo.svg" width="54" height="54" alt="MCP" style="border-radius: 12px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://5fburm4gw2.ucarecd.net/85406d88-bcb3-4caf-9f21-cca1a134fc49/agnologo.svg" width="48" height="48" alt="Agno" style="border-radius: 12px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://5fburm4gw2.ucarecd.net/7dcad70d-3b76-4fd1-baf8-94c765fbf0ff/" width="54" height="54" alt="Scikit" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://5fburm4gw2.ucarecd.net/1718b3f3-d918-463a-a51b-814799db1f77/aiflowIcon.svg" width="54" height="54" alt="Airflow" /></a>
+      <table align="center" style="border: none; background-color: transparent;">
+        <tr style="border: none; background-color: transparent;">
+          <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
+            <a href="#"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="48" height="48" alt="Gemini" /></a>
+          </td>
+          <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
+            <a href="#"><img src="https://5fburm4gw2.ucarecd.net/049e8935-f4c6-40f2-947e-e38bedb4fd9a/mcplogo.svg" width="54" height="54" alt="MCP" style="border-radius: 12px;" /></a>
+          </td>
+          <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
+            <a href="#"><img src="https://5fburm4gw2.ucarecd.net/85406d88-bcb3-4caf-9f21-cca1a134fc49/agnologo.svg" width="48" height="48" alt="Agno" style="border-radius: 12px;" /></a>
+          </td>
+          <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
+            <a href="#"><img src="https://5fburm4gw2.ucarecd.net/7dcad70d-3b76-4fd1-baf8-94c765fbf0ff/" width="54" height="54" alt="Scikit" /></a>
+          </td>
+          <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
+            <a href="#"><img src="https://5fburm4gw2.ucarecd.net/1718b3f3-d918-463a-a51b-814799db1f77/aiflowIcon.svg" width="54" height="54" alt="Airflow" /></a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 
-  <!-- 4. DEVOPS -->
   <tr>
     <td align="center" style="border: none; padding-bottom: 20px;">
       <b>DevOps</b><br/><br/>
@@ -70,11 +84,25 @@ class Keiner:
     </td>
   </tr>
 
-  <!-- 5. AUTOMATION & DEV TOOLS -->
   <tr>
     <td align="center" style="border: none; padding-bottom: 20px;">
       <b>Automation & Dev Tools</b><br/><br/>
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://cdn.simpleicons.org/n8n/FF4081" width="48" height="48" alt="n8n" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://simpleicons.org/icons/tldraw.svg" width="48" height="48" alt="tldraw" /></a>
+      <table align="center" style="border: none; background-color: transparent;">
+        <tr style="border: none; background-color: transparent;">
+          <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
+            <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" /></a>
+          </td>
+          <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
+            <a href="#"><img src="https://cdn.simpleicons.org/n8n/FF4081" width="48" height="48" alt="n8n" /></a>
+          </td>
+          <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
+            <a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" /></a>
+          </td>
+          <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
+            <a href="#"><img src="https://simpleicons.org/icons/tldraw.svg" width="48" height="48" alt="tldraw" /></a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 
