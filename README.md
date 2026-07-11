@@ -1,134 +1,144 @@
-# Hi there! 👋🏾 I'm Keiner
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&height=70&lines=Software+Developer+%F0%9F%92%BB;Systems+Engineering+Student+%F0%9F%8E%93;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Backend+Developer+%F0%9F%8C%90)
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:1a0b2e,50:7c3aed,100:0d1117&text=K31NER&fontColor=00D4AA&fontSize=70&animation=fadeIn&desc=~/keiner-zuniga-romero&descAlignY=75&descSize=18" width="100%"/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&width=600&height=60&lines=%3E+whoami+--verbose;%3E+Backend+Developer+%7C+Python+%26+Go;%3E+Systems+Engineering+Student;%3E+Building+AI-powered+systems...;%3E+sudo+make+coffee+%E2%98%95)
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00D4AA?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/LOCATION-COLOMBIA_🇨🇴-00D4AA?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/MODE-BUILDING-00D4AA?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
-## 🚀 About Me
+<br/>
+
+## `> keiner --boot`
+
+```bash
+[ OK ] Initializing developer profile...
+[ OK ] Loading identity ................ Keiner Zuñiga Romero
+[ OK ] Mounting role ................... Software Developer
+[ OK ] Compiling education ............. Systems Engineering (in progress)
+[ OK ] Injecting interests ............. AI · Backend · Data Science
+[ OK ] Fetching current stack .......... Python | Go | FastAPI | Django
+[ .. ] Downloading new skills .......... Go ████████░░ 80%
+                                          ML ██████░░░░ 60%
+[ OK ] System ready. Welcome, visitor.
+```
 
 ```python
 class Keiner:
+    """Backend dev obsessed with automation & AI"""
+
     def __init__(self):
-        self.name = "Keiner Zuñiga Romero"
-        self.role = "Software Developer"
-        self.education = "Systems Engineering Student"
-        self.location = "Colombia 🇨🇴"
-        self.interests = ["AI & Machine Learning", "Backend Development", "Data Science"]
-        self.currently_learning = ["Go", "Advanced Python", "Machine Learning"]
-    
-    def get_daily_routine(self):
+        self.uptime = "24/7 curiosity"
+        self.daily_loop = ["code", "explore", "build", "repeat"]
+
+    def run(self) -> dict:
         return {
-            "code": "Python, Go, Django, FastAPI",
+            "code":    "Python · Go · Django · FastAPI",
             "explore": "Data Analysis & AI Solutions",
-            "build": "Scalable Backend Systems",
-            "dream": "AI-powered applications"
+            "build":   "Scalable Backend Systems",
+            "dream":   "AI-powered applications 🤖",
         }
+
+if __name__ == "__main__":
+    Keiner().run()   # exit code: never
 ```
-## 💻 Tech Stack
+
+<br/>
+
+## `> stack --list-all`
 
 <div align="center">
 
-<table align="center" width="100%" style="border: none; border-collapse: collapse;">
-  
-  <tr>
-    <td align="center" style="border: none; padding-bottom: 20px;">
-      <b>Languages & Frameworks</b><br/><br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,go,fastapi,django&theme=dark" alt="Languages" />
-      </a>
+### `┌─[ languages & frameworks ]`
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,go,fastapi,django&theme=dark" alt="Languages" />
+</a>
+
+### `├─[ databases ]`
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" alt="Databases" />
+</a>
+
+### `├─[ ai & machine learning ]`
+
+<table align="center" style="border: none; background-color: transparent;">
+  <tr style="border: none; background-color: transparent;">
+    <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
+      <a href="#"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="48" height="48" alt="Gemini" /></a>
+    </td>
+    <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
+      <a href="#"><img src="https://5fburm4gw2.ucarecd.net/049e8935-f4c6-40f2-947e-e38bedb4fd9a/mcplogo.svg" width="54" height="54" alt="MCP" style="border-radius: 12px;" /></a>
+    </td>
+    <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
+      <a href="#"><img src="https://5fburm4gw2.ucarecd.net/85406d88-bcb3-4caf-9f21-cca1a134fc49/agnologo.svg" width="48" height="48" alt="Agno" style="border-radius: 12px;" /></a>
+    </td>
+    <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
+      <a href="#"><img src="https://5fburm4gw2.ucarecd.net/7dcad70d-3b76-4fd1-baf8-94c765fbf0ff/" width="54" height="54" alt="Scikit-learn" /></a>
+    </td>
+    <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
+      <a href="#"><img src="https://5fburm4gw2.ucarecd.net/1718b3f3-d918-463a-a51b-814799db1f77/aiflowIcon.svg" width="54" height="54" alt="Airflow" /></a>
     </td>
   </tr>
+</table>
 
-  <tr>
-    <td align="center" style="border: none; padding-bottom: 20px;">
-      <b>Databases</b><br/><br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" alt="Databases" />
-      </a>
+### `├─[ devops & cloud ]`
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,gcp,git&theme=dark" alt="DevOps" />
+</a>
+
+### `└─[ automation & tools ]`
+
+<table align="center" style="border: none; background-color: transparent;">
+  <tr style="border: none; background-color: transparent;">
+    <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" /></a>
+    </td>
+    <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
+      <a href="#"><img src="https://cdn.simpleicons.org/n8n/FF4081" width="48" height="48" alt="n8n" /></a>
+    </td>
+    <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
+      <a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" /></a>
+    </td>
+    <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
+      <a href="#"><img src="https://simpleicons.org/icons/tldraw.svg" width="48" height="48" alt="tldraw" /></a>
     </td>
   </tr>
-
-  <tr>
-    <td align="center" style="border: none; padding-bottom: 20px;">
-      <b>AI & Machine Learning</b><br/><br/>
-      <table align="center" style="border: none; background-color: transparent;">
-        <tr style="border: none; background-color: transparent;">
-          <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
-            <a href="#"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="48" height="48" alt="Gemini" /></a>
-          </td>
-          <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
-            <a href="#"><img src="https://5fburm4gw2.ucarecd.net/049e8935-f4c6-40f2-947e-e38bedb4fd9a/mcplogo.svg" width="54" height="54" alt="MCP" style="border-radius: 12px;" /></a>
-          </td>
-          <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
-            <a href="#"><img src="https://5fburm4gw2.ucarecd.net/85406d88-bcb3-4caf-9f21-cca1a134fc49/agnologo.svg" width="48" height="48" alt="Agno" style="border-radius: 12px;" /></a>
-          </td>
-          <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
-            <a href="#"><img src="https://5fburm4gw2.ucarecd.net/7dcad70d-3b76-4fd1-baf8-94c765fbf0ff/" width="54" height="54" alt="Scikit" /></a>
-          </td>
-          <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
-            <a href="#"><img src="https://5fburm4gw2.ucarecd.net/1718b3f3-d918-463a-a51b-814799db1f77/aiflowIcon.svg" width="54" height="54" alt="Airflow" /></a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" style="border: none; padding-bottom: 20px;">
-      <b>DevOps</b><br/><br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,gcp,git&theme=dark" alt="DevOps" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" style="border: none; padding-bottom: 20px;">
-      <b>Automation & Dev Tools</b><br/><br/>
-      <table align="center" style="border: none; background-color: transparent;">
-        <tr style="border: none; background-color: transparent;">
-          <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
-            <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" /></a>
-          </td>
-          <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
-            <a href="#"><img src="https://cdn.simpleicons.org/n8n/FF4081" width="48" height="48" alt="n8n" /></a>
-          </td>
-          <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
-            <a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" /></a>
-          </td>
-          <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
-            <a href="#"><img src="https://simpleicons.org/icons/tldraw.svg" width="48" height="48" alt="tldraw" /></a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-
 </table>
 
 </div>
 
-## 📊 GitHub Stats
+<br/>
+
+## `> git log --stats`
 
 <div align="center">
-<img src="https://github-readme-stats-rickstaa.vercel.app/api?username=K31NER&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff" height="150"/>
-<img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=K31NER&layout=compact&hide=html,css&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=K31NER&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats-rickstaa.vercel.app/api?username=K31NER&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&icon_color=00D4AA&ring_color=00D4AA" height="160"/>
+<img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=K31NER&layout=compact&hide=html,css&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=K31NER&hide_border=true&background=0d1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=K31NER&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&area_color=00d4aa&hide_border=true" width="95%"/>
 
 </div>
 
-## 🤝 Connect With Me
+<br/>
+
+## `> contact --me`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keiner-zuniga-romero)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/keiner_zr)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zunigaromerokeiner@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00D4AA)](https://linkedin.com/in/keiner-zuniga-romero)
+[![Instagram](https://img.shields.io/badge/Instagram-follow-0d1117?style=for-the-badge&logo=instagram&logoColor=00D4AA)](https://instagram.com/keiner_zr)
+[![Gmail](https://img.shields.io/badge/Gmail-send-0d1117?style=for-the-badge&logo=gmail&logoColor=00D4AA)](mailto:zunigaromerokeiner@gmail.com)
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=K31NER&label=Profile%20Views&color=00D4AA&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=K31NER&label=visitors&color=00D4AA&style=flat-square"/>
 
 </div>
 
@@ -136,6 +146,13 @@ class Keiner:
 
 <div align="center">
 
-**⭐ From [K31NER](https://github.com/K31NER)**
+```bash
+$ echo "Thanks for reading. Now go build something cool."
+$ exit 0
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7c3aed,50:00d4aa,100:7c3aed&section=footer" width="100%"/>
+
+**⭐ From [K31NER](https://github.com/K31NER) — powered by coffee & curiosity**
 
 </div>
