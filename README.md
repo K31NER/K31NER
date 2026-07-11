@@ -14,17 +14,11 @@
 
 ## `> keiner --boot`
 
-```bash
-[ OK ] Initializing developer profile...
-[ OK ] Loading identity ................ Keiner Zuñiga Romero
-[ OK ] Mounting role ................... Software Developer
-[ OK ] Compiling education ............. Systems Engineering (in progress)
-[ OK ] Injecting interests ............. AI · Backend · Data Science
-[ OK ] Fetching current stack .......... Python | Go | FastAPI | Django
-[ .. ] Downloading new skills .......... Go ████████░░ 80%
-                                          ML ██████░░░░ 60%
-[ OK ] System ready. Welcome, visitor.
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=900&pause=150&color=00D4AA&multiline=true&repeat=false&random=false&width=600&height=250&lines=%5B+OK+%5D+Initializing+developer+profile...;%5B+OK+%5D+Identity+..........+Keiner+Zu%C3%B1iga+Romero;%5B+OK+%5D+Role+..............+Software+Developer;%5B+OK+%5D+Education+.........+Systems+Engineering;%5B+OK+%5D+Interests+.........+AI+%C2%B7+Backend+%C2%B7+Data+Science;%5B+OK+%5D+Stack+.............+Python+%7C+Go+%7C+FastAPI+%7C+Django;%5B+..+%5D+Learning+Go+.......+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91+80%25;%5B+..+%5D+Learning+ML+.......+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91+60%25;%5B+OK+%5D+System+ready.+Welcome%2C+visitor." alt="boot sequence" />
+
+</div>
 
 ```python
 class Keiner:
@@ -66,25 +60,13 @@ if __name__ == "__main__":
 
 ### `├─[ ai & machine learning ]`
 
-<table align="center" style="border: none; background-color: transparent;">
-  <tr style="border: none; background-color: transparent;">
-    <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
-      <a href="#"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="48" height="48" alt="Gemini" /></a>
-    </td>
-    <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
-      <a href="#"><img src="https://5fburm4gw2.ucarecd.net/049e8935-f4c6-40f2-947e-e38bedb4fd9a/mcplogo.svg" width="54" height="54" alt="MCP" style="border-radius: 12px;" /></a>
-    </td>
-    <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
-      <a href="#"><img src="https://5fburm4gw2.ucarecd.net/85406d88-bcb3-4caf-9f21-cca1a134fc49/agnologo.svg" width="48" height="48" alt="Agno" style="border-radius: 12px;" /></a>
-    </td>
-    <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
-      <a href="#"><img src="https://5fburm4gw2.ucarecd.net/7dcad70d-3b76-4fd1-baf8-94c765fbf0ff/" width="54" height="54" alt="Scikit-learn" /></a>
-    </td>
-    <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
-      <a href="#"><img src="https://5fburm4gw2.ucarecd.net/1718b3f3-d918-463a-a51b-814799db1f77/aiflowIcon.svg" width="54" height="54" alt="Airflow" /></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="48" height="48" alt="Gemini" />&nbsp;&nbsp;&nbsp;
+  <img src="https://5fburm4gw2.ucarecd.net/049e8935-f4c6-40f2-947e-e38bedb4fd9a/mcplogo.svg" width="52" height="52" alt="MCP" />&nbsp;&nbsp;&nbsp;
+  <img src="https://5fburm4gw2.ucarecd.net/85406d88-bcb3-4caf-9f21-cca1a134fc49/agnologo.svg" width="48" height="48" alt="Agno" />&nbsp;&nbsp;&nbsp;
+  <img src="https://5fburm4gw2.ucarecd.net/7dcad70d-3b76-4fd1-baf8-94c765fbf0ff/" width="52" height="52" alt="Scikit-learn" />&nbsp;&nbsp;&nbsp;
+  <img src="https://5fburm4gw2.ucarecd.net/1718b3f3-d918-463a-a51b-814799db1f77/aiflowIcon.svg" width="52" height="52" alt="Airflow" />
+</p>
 
 ### `├─[ devops & cloud ]`
 
@@ -94,22 +76,12 @@ if __name__ == "__main__":
 
 ### `└─[ automation & tools ]`
 
-<table align="center" style="border: none; background-color: transparent;">
-  <tr style="border: none; background-color: transparent;">
-    <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" /></a>
-    </td>
-    <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
-      <a href="#"><img src="https://cdn.simpleicons.org/n8n/FF4081" width="48" height="48" alt="n8n" /></a>
-    </td>
-    <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
-      <a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" /></a>
-    </td>
-    <td align="center" style="border: none; background-color: transparent; padding: 0 10px;">
-      <a href="#"><img src="https://simpleicons.org/icons/tldraw.svg" width="48" height="48" alt="tldraw" /></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/FF4081" width="48" height="48" alt="n8n" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" />&nbsp;&nbsp;&nbsp;
+  <img src="https://simpleicons.org/icons/tldraw.svg" width="48" height="48" alt="tldraw" />
+</p>
 
 </div>
 
